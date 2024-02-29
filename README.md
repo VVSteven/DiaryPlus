@@ -15,7 +15,7 @@ Diary+ is a lightweight desktop application developed in Python using the Tkinte
 
 1. Clone or download the repository to your local machine.
 2. Navigate to the project directory.
-3. Run the `diary_plus.py` file using Python.
+3. Run the `diary+.py` file using Python.
 4. Begin writing your diary entry in the text editor.
 5. Save your entry using the provided button, which automatically timestamps and saves it to your chosen directory.
 6. Easily access and manage your diary entries through the application's intuitive interface.
